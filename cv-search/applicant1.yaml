@@ -1,0 +1,51 @@
+averageAllSkills: 69.0909090909091
+email: Vonny@mail.com
+experience:
+  AK Steel Holding Corporation:
+    end: 2019
+    keywords:
+    - Basecamp
+    - XML Databases
+    start: 2004
+  DTE Energy Company:
+    end: 1999
+    keywords:
+    - java
+    - Express
+    - Google Docs
+    - Google Hangouts
+    - Rails
+    - c
+    - Slack
+    - c++
+    - Instagram
+    - Python
+    start: 1998
+  INTL FCStone Inc.:
+    end: 2010
+    keywords:
+    - Angular
+    - Laravel
+    - Ocaml
+    - Experience using desktop publishing tools
+    - Assembleur
+    - NoSQL
+    - jsp
+    - Microsoft Teams
+    - Zoom
+    start: 1997
+lastName: Vonny
+name: Kirbie
+sexe: homme
+skills:
+  Google Hangouts: 100
+  Hootsuite: 50
+  Instagram: 20
+  Javascript: 60
+  Jquery: 40
+  Microsoft Access: 40
+  Reactjs: 90
+  Vuejs: 90
+  c: 80
+  c++: 90
+  coq: 100

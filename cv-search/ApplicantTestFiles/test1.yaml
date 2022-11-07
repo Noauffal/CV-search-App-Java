@@ -1,0 +1,82 @@
+averageAllSkills: 61.25
+email: Mohamed@mail.com
+experience:
+  Google:
+    end: 2010
+    keywords:
+    - jsp
+    - NoSQL
+    - c++
+    - java
+    - Basecamp
+    - Sql
+    - Excel
+    - Facebook
+    start: 2005
+  Anixter International Inc.:
+    end: 2011
+    keywords:
+    - Ocaml
+    - jsp
+    - Php
+    - Vuejs
+    - Javascript
+    - Reactjs
+    - Microsoft Access
+    - Google Docs
+    - MERN
+    - MEVN
+    - Django
+    - Assembleur
+    - Google Hangouts
+    start: 2004
+  Aramark Holdings Corporation:
+    end: 2010
+    keywords:
+    - Hootsuite
+    - Ocaml
+    - jsp
+    - java
+    - Vuejs
+    - postgresql
+    - Assembleur
+    - Experience using desktop publishing tools
+    start: 1985
+  Reinsurance Group of America, Incorporated:
+    end: 2019
+    keywords:
+    - coq
+    - Ocaml
+    - Express
+    - Google Hangouts
+    - Slack
+    - XML Databases
+    - Microsoft Access
+    - Skype
+    - Experience using desktop publishing tools
+    - java
+    - Symfony
+    - Python
+    - c++
+    - Rails
+    - postgresql
+    start: 2018
+  United Continental Holdings, Inc.:
+    end: 2007
+    keywords:
+    - Ocaml
+    - Twitter
+    start: 1997
+lastName: Mohamed
+name: Noauffal
+sexe: homme
+skills:
+  Facebook: 100
+  Google Hangouts: 80
+  Google Sheets: 60
+  Hootsuite: 50
+  Knowledge of spreadsheets: 30
+  Microsoft Teams: 70
+  Spring: 70
+  Symfony: 30
+  java: 70

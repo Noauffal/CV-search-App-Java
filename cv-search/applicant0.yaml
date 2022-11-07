@@ -1,0 +1,17 @@
+averageAllSkills: 20.0
+email: Marla@mail.com
+experience:
+  Halliburton Company:
+    end: 2008
+    keywords:
+    - Angular
+    - Microsoft Access
+    - NodeJs
+    - Excel
+    - Spring
+    start: 2001
+lastName: Marla
+name: Cammie
+sexe: homme
+skills:
+  Microsoft Teams: 20
